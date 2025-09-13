@@ -1,0 +1,132 @@
+[
+    {
+        "id": "101",
+        "earTag": 1001,
+        "sex": "Female",
+        "pen": "Indian",
+        "status": "Active",
+        "lastEventDate": "2025-09-01",
+        "weight": 450,
+        "events": [
+            {
+                "type": "Weight Check",
+                "date": "2025-09-01"
+            },
+            {
+                "type": "Treatment",
+                "date": "2025-08-20"
+            },
+            {
+                "type": "Moved Pen",
+                "date": "2025-06-24"
+            },
+            {
+                "type": "Weight Check",
+                "date": "2025-03-22"
+            }
+        ]
+    },
+    {
+        "id": "102",
+        "earTag": 1002,
+        "sex": "Male",
+        "pen": "Indian",
+        "status": "In Treatment",
+        "lastEventDate": "2025-07-15",
+        "weight": 500,
+        "events": [
+            {
+                "type": "Treatment",
+                "date": "2025-07-15"
+            }
+        ]
+    },
+    {
+        "id": "103",
+        "earTag": 1003,
+        "sex": "Female",
+        "pen": "African",
+        "status": "In Treatment",
+        "lastEventDate": "2025-09-05",
+        "weight": 500,
+        "events": [
+            {
+                "type": "Treatment",
+                "date": "2025-09-05"
+            },
+            {
+                "type": "Moved Pen",
+                "date": "2025-07-05"
+            }
+        ]
+    },
+    {
+        "id": "104",
+        "earTag": 1004,
+        "sex": "Female",
+        "pen": "African",
+        "status": "Deceased",
+        "lastEventDate": "2025-01-05",
+        "weight": 340,
+        "events": [
+            {
+                "type": "Treatment",
+                "date": "2025-03-05"
+            },
+            {
+                "type": "Moved Pen",
+                "date": "2025-02-05"
+            }
+        ]
+    },
+    {
+        "id": "105",
+        "earTag": 1005,
+        "sex": "Male",
+        "pen": "Netherland",
+        "status": "Active",
+        "lastEventDate": "2025-09-01",
+        "weight": 440,
+        "events": [
+            {
+                "type": "Treatment",
+                "date": "2025-03-24"
+            },
+            {
+                "type": "Weight Check",
+                "date": "2024-02-05"
+            },
+            {
+                "type": "Moved Pen",
+                "date": "2025-06-24"
+            },
+            {
+                "type": "Treatment",
+                "date": "2025-04-24"
+            },
+            {
+                "type": "Weight Check",
+                "date": "2024-10-24"
+            }
+        ]
+    },
+    {
+        "id": "106",
+        "earTag": 1006,
+        "sex": "Male",
+        "pen": "Netherland",
+        "status": "In Treatment",
+        "lastEventDate": "2025-01-19",
+        "weight": 340,
+        "events": [
+            {
+                "type": "Weight Check",
+                "date": "2025-09-10"
+            },
+            {
+                "type": "Moved Pen",
+                "date": "2025-06-15"
+            }
+        ]
+    }
+]
