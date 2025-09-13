@@ -47,6 +47,13 @@ export default function CowListScreen() {
                 keyExtractor={(item, index) => index.toString()}
                 renderItem={renderItem}
                 showsVerticalScrollIndicator={false}
+                ListEmptyComponent={
+                    <View style={{ flex: 1, justifyContent: "center", alignItems: "center", marginTop: 50 }}>
+                        <Text style={{ color: Colors.dark, fontSize: 18, fontWeight: "bold" }}>
+                            No data found!
+                        </Text>
+                    </View>
+                }
             />
         </View>
     );
