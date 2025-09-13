@@ -25,7 +25,7 @@ const Card = ({ earTag, sex, area, status, eventDate, onPress }) => {
                     </View>
                     <View style={styles.row}>
                         <View style={styles.column}>
-                            <Text style={styles.label}>Area:</Text>
+                            <Text style={styles.label}>Pen (Area):</Text>
                         </View>
                         <View style={styles.column}>
                             <Text style={styles.value}>{area}</Text>
