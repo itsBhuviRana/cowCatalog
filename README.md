@@ -92,3 +92,14 @@ cowCatalog/
   - iOS
      npm start ios
 ```
+
+---
+## 📸 Screenshots
+
+
+
+<p align="center">
+  <img src="src/assets/listHome.png" alt="Screen 1" width="30%" />
+  <img src="src/assets/applyFilter.png" alt="Screen 2" width="30%" />
+  <img src="src/assets/detailsScreen.png" alt="Screen 3" width="30%" />
+</p>
